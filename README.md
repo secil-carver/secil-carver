@@ -15,7 +15,7 @@ I am a Data Analyst in Seattle with a Master's in Data Analytics <img src="https
 ---
 
 Connect with me:
-<a href="www.linkedin.com/in/secilcarver">
+<a href="https://www.linkedin.com/in/secilcarver">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
