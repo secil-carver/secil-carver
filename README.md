@@ -9,7 +9,7 @@ I am a Data Analyst in Seattle with a Master's in Data Analytics <img src="https
 - 🔭 I’m currently working on a project with InVitro Cell Research identifying age-related conditions.
 - 🌱 I’m currently learning machine learning-based image processing.
 - 👯 I’m looking to create and/or collaborate on many interesting projects.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-secilcarver-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/secilcarver)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-secilcarver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/secilcarver)
 - :zap: Fun fact: I love playing video games in my free time and am forever a Star Trek fan!
 
 ---
