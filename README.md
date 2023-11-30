@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/hh3Z7w9ADFzImscqLV/giphy.gif" align="right" width="300">
 
 I am a Data Analyst in Seattle with a Master's in Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🔭 I’m currently working on a project with InVitro Cell Research identifying age-related conditions.
+- 🔭 I’m currently working on an AWS certificate.
 - 🌱 I’m currently learning machine learning-based image processing.
 - 👯 I’m looking to create and/or collaborate on many interesting projects.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-secilcarver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/secilcarver)
